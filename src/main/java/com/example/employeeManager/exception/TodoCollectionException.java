@@ -16,7 +16,7 @@ public class TodoCollectionException extends Exception {
 	}
 	
 	public static String TodoAlreadyExists() {
-		return "todo with same name already exists! try Different name";
+		return "todo with same name already exists! try Differentt name";
 	}
 
 }
